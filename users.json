@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "kelas": "XII.3",
+    "jumlah_siswa": 35,
+    "updated": "2026-08-17T08:19:24.680Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549909,
+      "nama": "AIDIL NUGRAHA",
+      "nohp": "082376791244",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549910,
+      "nama": "AISYA FITRIA SUNDARI",
+      "nohp": "089653007134",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549911,
+      "nama": "ANNISA FITRI JAYATI",
+      "nohp": "081267038843",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549912,
+      "nama": "AURORA ALTHAFUNNISA",
+      "nohp": "085263241904",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549913,
+      "nama": "AZRA OCTAZELWA",
+      "nohp": "085364653265",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549914,
+      "nama": "DIAN HUSNAL FATIMAH",
+      "nohp": "082383385541",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549915,
+      "nama": "DINDA RESTU AULIA",
+      "nohp": "083899012123",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549916,
+      "nama": "DWI NADA FITRI",
+      "nohp": "089614384800",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549917,
+      "nama": "FATMA",
+      "nohp": "083161954248",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549918,
+      "nama": "HANIFATUN INAYAH",
+      "nohp": "085274621884",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549919,
+      "nama": "HAURA KHAIRIYAH",
+      "nohp": "081266116503",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549920,
+      "nama": "JEFRI DEVANDI",
+      "nohp": "082391626605",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549921,
+      "nama": "KEYZA ALMAIRA FARADILLA",
+      "nohp": "085363470889",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549922,
+      "nama": "KEYZIA PUTRIA VENDHANESIA",
+      "nohp": "081374678595",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549923,
+      "nama": "KIARA ANJANA",
+      "nohp": "0895623393935",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549924,
+      "nama": "LOUISA EKKLESIA PURBA",
+      "nohp": "081265399040",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549925,
+      "nama": "MELATI KHAIRA NIHRI",
+      "nohp": "085272970221",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549926,
+      "nama": "MIRANDA ADREVI SIAHAAN",
+      "nohp": "082173251388",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549927,
+      "nama": "MUHAMMAD JIBRIL BAIHAQQI AJWARI",
+      "nohp": "089524494462",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549928,
+      "nama": "NAFLA KHOLILAH",
+      "nohp": "082399431825",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549929,
+      "nama": "NAJWA JIHAAN SYAFIRA",
+      "nohp": "085363111984",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549930,
+      "nama": "NAYLA DWI LESTARI",
+      "nohp": "082386432089",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549931,
+      "nama": "NUGRA PRATAMA",
+      "nohp": "085220166246",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549932,
+      "nama": "NUR AZIZAH",
+      "nohp": "081365708800",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549933,
+      "nama": "RANGGA RANUGRA SYUKRA",
+      "nohp": "08992999559",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549934,
+      "nama": "SABRINA RIEL NAFISAH",
+      "nohp": "082211909378",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549935,
+      "nama": "SABRINA WAIZ",
+      "nohp": "085374150461",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549936,
+      "nama": "SEEYSA MARTHA",
+      "nohp": "085264679095",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549937,
+      "nama": "SHALWA QOWLAM FADILLAH",
+      "nohp": "085364486120",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549938,
+      "nama": "SITI FATHIMAH AZZAHRAH",
+      "nohp": "082172983560",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549939,
+      "nama": "SYAKIRA DIVIA UTAMA",
+      "nohp": "08116690982",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549940,
+      "nama": "TITIS QODRI RAHMADANI",
+      "nohp": "085263106040",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549941,
+      "nama": "VALEN NOVIANA PUTRI",
+      "nohp": "082383468493",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549942,
+      "nama": "WAHYU JULIANDI",
+      "nohp": "083136540431",
+      "kelas": "XII.3"
+    },
+    {
+      "id": 1786954549943,
+      "nama": "ZAHRA NADA FADHILAH",
+      "nohp": "083813040624",
+      "kelas": "XII.3"
+    }
+  ]
+}
